@@ -66,7 +66,7 @@ class DefaultFirebaseOptions {
     databaseURL: 'https://traccar-manager-app.firebaseio.com',
     storageBucket: 'traccar-manager-app.appspot.com',
     iosClientId: '847296525014-8d6vg8a08lfk1mp8j6mbgv96gq3n7cob.apps.googleusercontent.com',
-    iosBundleId: 'org.traccar.TraccarManager',
+    iosBundleId: 'com.hoppataxi.serbTrackerManager',
   );
 
 }
